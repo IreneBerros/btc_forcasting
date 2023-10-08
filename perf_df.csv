@@ -1,0 +1,21 @@
+Model,Validation RMSPE,Validation RMSE
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'Detrended Price Oscillator', 'unrealized-profit', 'Value_USunem', 'balance-100'], n_past=30",0.6188048601577986,0.1041746636900009
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'Detrended Price Oscillator', 'unrealized-profit', 'Value_USunem', 'balance-100'], n_past=30",0.7733671121069299,0.1320403685680089
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current'], n_past=30",0.486292230143468,0.07281590095521337
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current'], n_past=30",0.7626826864479512,0.10044907381840719
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.48728944964685444,0.10701544178007245
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.40209875272682566,0.07678429140958436
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.48474189718150695,0.09635541399030319
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'CO_sprd', 'vol_current'], n_past=30",0.5149953195323516,0.108135709758884
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'CO_sprd', 'vol_current'], n_past=30",0.5356850094719718,0.07935084664076322
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.3359385539193454,0.06395161210706675
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.3709449575821709,0.0679539047973476
+"['HL_sprd', 'CO_sprd', 'Volume', 'vol_current'], n_past=30",0.24075013315158691,0.05639312781463407
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'CO_sprd', 'vol_current'], n_past=30",0.9526401283799213,0.17631915412672197
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'CO_sprd', 'vol_current'], n_past=30",0.7028306455968578,0.09162459456080961
+"['Volume', 'HL_sprd', 'trans_fees', 'Value_SP500', 'vol_current', 'CO_sprd', 'vol_current'], n_past=30",0.6859999757846769,0.11148464793005924
+"['Volume', 'HL_sprd', 'trans_fees', 'vol_current'], n_past=30",0.25220340845064165,0.05570458607893905
+"['Volume', 'HL_sprd', 'trans_fees', 'vol_current'], n_past=30",0.25040970000656243,0.059217571364187045
+"['Volume', 'HL_sprd', 'trans_fees', 'vol_current'], n_past=30",0.263506983663205,0.0573251249526416
+"['Volume', 'HL_sprd', 'trans_fees', 'vol_current'], n_past=30",0.26909342419505866,0.05646023518718383
+"['Volume', 'HL_sprd', 'trans_fees', 'vol_current'], n_past=30",0.26413945231610425,0.05899527345647544
